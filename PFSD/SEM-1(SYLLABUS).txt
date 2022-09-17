@@ -1,0 +1,130 @@
+SYLLABUS:
+
+
+DAA:
+
+CO-1:
+1. Space complexity, time complexity of algorithms
+2. Asymptotic Notations
+3. PRAM Algorithms: Merging, PRAM Algorithms: Sorting
+4. Naïve’s string algorithm
+5. Robin Karp String Algorithm
+6. Knuth Morris Pratt algorithm
+
+CO-2:
+1. Introduction to Divide and Conquer Method, Merge Sort
+2. Quick Sort
+3. Strassen’s Matrix Multiplication
+4. Convex Hull
+5. Greedy Method Introduction
+6. Job Sequencing with Deadlines
+7. Minimum Cost Spanning Trees- Kruskal's algorithm
+8. Minimum Cost Spanning Trees- Prims algorithm
+9. Huffman Codes
+10. Single Source Shortest Path Method
+
+
+
+AI FOR DS:
+
+CO-1:
+1. Intelligent Agents, Applications of AI.
+2. Solving problems by searching
+3. Uninformed search strategies: - BFS, DFS
+4. Uniform cost search, Depth limited search, Iterative deepening depth-first search
+5. Heuristic Search Techniques: - Greedy best-first search
+6. Memory bounded Heuristic Search
+7. A* algorithm
+8. Heuristic Functions
+
+CO-2:
+1. Local & Adversarial Search: Optimization Problems, Hill Climbing Search.
+2. Simulated Annealing, Local Beam Search
+3. Genetic Algorithms
+4. Online search agents and unknown environments
+5. Optimal Decisions in Games, Alpha-Beta Pruning
+6. Cutting of search
+7. Forward pruning
+8. Constraint Satisfaction Problems:- Inference in CSPs
+9. Back Tracking Search for CSPs, Forward tracking search for CSPs.
+
+
+
+DBMS:
+
+CO-1:
+1. Fundamentals and purpose of relational databases.
+2. Database System Concepts and Architecture
+3. View of Data, data models and database languages.
+4. ER notations, design Issues and concepts.
+5. Relational database design using ER diagrams
+
+CO-2:
+1. Introduction to SQL; Structure of SQL Queries
+2. to study joins and nested corelated queries.
+3. to study integrity constraints, aggregate and complex SQL queries.
+4. Construct Complex SQL Queries & Assertions on a given database
+5. Introduction to Relational Algebra and Relational Calculus.
+6. An overview of TRC & DRC
+
+
+
+PSQT:
+
+CO-1:
+1. Introduction to Probability: Sample Space and Events
+2. Probabilities defined on Events, Conditional Probabilities
+3. Independent Events, Bayes Formula
+4. Random Variables, Probability Distribution Function
+5. Cumulative Distribution Function
+6. Discrete Random Variables: Bernoulli, Binomial, and Poisson distributions
+
+CO-2:
+1. Continuous Random Variables: Uniform, Exponential and Normal Random Variables
+2. Expectation of a Random Variable : Discrete and Continuous Case
+3. Expectation of a Function of a Random Variable
+4. Higher Order Moments, Variance, Standard Deviation
+5. Jointly Distributed Random Variables:
+6. Joint Distribution Functions, Independent Random Variables
+
+
+
+
+SE:
+
+CO-1:
+1. Software engineering , software process , Software engineering practice , Software myths .
+2. Process Models : Generic process model , prescriptive process models
+3. Specialized process models , unified process
+4. Personal and team process models , product and process .
+5. Reverse Engineering to Understand Data, Reverse Engineering to Understand Processing, Reverse Engineering User Interfaces
+
+CO-2:
+1. Understanding Requirements, Identify stakeholders , recognizing multiple viewpoints , eliciting requirements.
+2. Building requirement model , negotiating requirements , validating requirements . SRS Vs User Stories.
+3. Agile: Agile Development , Classification of Methods , The Agile Manifesto and Principles , Agile Project Management , Embrace Communication and Feedback
+4. Simple Practices and Project Tools , Empirical vs. Defined & Prescriptive Process,Principle-Based versus Rule-Based , Agile Hype? , Specific Agile Methods
+5. Extreme Programming: Method Overview , Lifecycle , Workproducts, Roles, and Practices
+6. scrum overview
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

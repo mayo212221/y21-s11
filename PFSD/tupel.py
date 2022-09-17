@@ -1,0 +1,6 @@
+tup=(22,"manohar","pfsd",9.3)
+print(tup)
+print(tup[0:3])
+print(tup[2:])
+print(tup*3)
+print(tup+tup)

@@ -1,0 +1,34 @@
+COURSE ERA:
+DAA(6, )
+Algorithms Part-1 - https://www.coursera.org/learn/algorithms-part1
+Programming Foundations: Algorithms - https://www.linkedin.com/learning/programming-foundations-algorithms/
+SE(7)
+AIDS()
+https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai#courses 
+ IBM Data Science Professional Certificate | Coursera
+AI For Everyone | Coursera
+https://www.coursera.org/learn/introduction-to-data-analytics#syllabus
+DBMS(1)
+https://www.coursera.org/learn/introduction-to-relational-databases
+PSQT(2)
+https://www.edx.org/course/queuing-theory-from-markov-chains-to-multi-server
+https://www.coursera.org/professional-certificates/sas-statistical-business-analyst
+https://www.coursera.org/specializations/probabilistic-graphical-models
+ESE()
+PFSD()
+
+NPTEL:
+DAA(2)
+ https://onlinecourses.nptel.ac.in/noc22_cs71/preview
+SE(3)
+https://onlinecourses.nptel.ac.in/noc22_cs106/preview
+AIDS(3,4)
+ https://onlinecourses.nptel.ac.in/noc22_cs67/preview
+ https://onlinecourses.nptel.ac.in/noc22_cs74/preview
+DBMS(8
+ https://onlinecourses.nptel.ac.in/noc22_cs91/preview
+PSQT(12,4)
+  https://onlinecourses.nptel.ac.in/noc22_ma81/preview
+ https://onlinecourses.nptel.ac.in/noc22_cs114/preview
+ESE
+PFSD
